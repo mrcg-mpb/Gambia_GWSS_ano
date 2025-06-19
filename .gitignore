@@ -1,0 +1,8 @@
+# Ignore raw data and temporary files
+*.gz
+*.log
+*:Zone.Identifier
+*.vcf
+LD_process/
+__pycache__/
+IBD_results/
