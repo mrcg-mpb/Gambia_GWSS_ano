@@ -258,7 +258,7 @@ plt.tight_layout()
 plt.savefig(f"{output_dir}/ibd_heatmap_share_pop_{chr}.png", dpi=300)
 
 # ------------------------
-# 6. Gene Annotation Overlap
+# 8. Gene Annotation Overlap
 # ------------------------
 
 # --- Load gene annotations global ---
